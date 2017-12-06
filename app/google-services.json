@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734010518289",
+    "project_id": "firebase-flash-me"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734010518289:android:5a2e5a8c3615fdf5",
+        "android_client_info": {
+          "package_name": "edu.cnm.deepdive.ak.googleauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734010518289-qguhr72tod3ri9prc0mmulhcq14rfflh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.cnm.deepdive.ak.googleauthtest",
+            "certificate_hash": "b4629646dfd3210b904041dac98a80f3e92dd153"
+          }
+        },
+        {
+          "client_id": "734010518289-f48a9u6egho1jjsm53np0thgb274h679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5EDf_E85YSdaU1xUbfJq81hVm0sHhok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
